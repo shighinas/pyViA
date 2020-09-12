@@ -3,7 +3,7 @@ import wikipedia
 import PySimpleGUI as sg
 import pyttsx3
 
-client = wolframalpha.Client('PJH658-LHQUPHXLAL')
+client = wolframalpha.Client('##########')
 
 sg.theme('dark green3')
 layout = [  [sg.Text('Hi, I am your Virtual Assistant PyViA')],
